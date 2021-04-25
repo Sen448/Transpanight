@@ -2,7 +2,7 @@
 
 Tema Oscuro Transparente para la Extension de navegador Tabliss
 
-<img src="Capturas/Captura_de_pantalla.png">
+<img src="https://raw.githubusercontent.com/Sen448/Transpanight/main/Capturas/Captura%20de%20pantalla.png">
 
 ## Como Agregar Este tema a Tabliss?
 
