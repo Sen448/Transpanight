@@ -1,4 +1,4 @@
-# Transpanight
+<h1 align = "center">Tabliss Dark Theme</h1>
 
 Tema Oscuro Transparente para la Extension de navegador Tabliss
 
